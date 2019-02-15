@@ -1,2 +1,2 @@
 # Mini-SpringFramework
-实现一个mini spring  ioc+web功能demo
+使用Java反射实现一个 Spring IOC + WEB 功能的 DEMO
